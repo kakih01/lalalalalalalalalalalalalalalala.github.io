@@ -60,3 +60,27 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+.dowaloand-section{
+    text-align: center;
+    padding: 30px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #e0e0e0;
+}
+.logo{
+    max-width: 150px;
+    margin-bottom: 15px;
+}
+.download-btn{
+    display: inline-block;
+    background-color: #4caf50;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    transition:  background-color 0.3s;
+
+}
+.download-btn:hover{
+    background-color: #45a049;
+}
